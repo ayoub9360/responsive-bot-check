@@ -6,7 +6,7 @@
 
 ## Configuration
 
-> Go to pageScraper.js and change url variable to the url of your sitemap.
+> Go to pageScraper.js and change url variable to the url of your sitemap (line 2) and the size of the viewport (line 13).
 
 ## Run
 
